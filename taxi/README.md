@@ -1,4 +1,4 @@
-## [Анализ поездок агрегатора такси](https://github.com/OrlovaD/Portfolio/blob/main/Pet-Projects/Taxi/chicago_taxi_project.ipynb) 
+## [Анализ поездок агрегатора такси](https://github.com/OrlovaD/Portfolio_Projects/blob/main/taxi/taxi_project_final.ipynb) 
 ### [презентация](https://github.com/OrlovaD/Portfolio_Projects/blob/main/taxi/taxi_preza.pdf) к проекту
 
 **Направление,навыки и инструменты**<br />
