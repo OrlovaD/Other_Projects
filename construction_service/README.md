@@ -1,5 +1,5 @@
-## [Анализ отточных пользователей облачного сервиса для строительных компаний](https://github.com/OrlovaD/Portfolio/blob/main/Pet-Projects/Renovation_service/g_project.ipynb) 
-### [Презентация](https://github.com/OrlovaD/Portfolio/blob/main/Pet-Projects/Renovation_service/README.md)
+## [Анализ отточных пользователей облачного сервиса для строительных компаний](https://github.com/OrlovaD/Portfolio_Projects/blob/main/construction_service/g_project.ipynb) 
+### [Презентация](https://github.com/OrlovaD/Portfolio_Projects/blob/main/construction_service/g_preza.pdf)
 <br />**Навыки и инструменты**<br />
 <br />
 * _Python_
